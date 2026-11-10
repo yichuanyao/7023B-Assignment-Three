@@ -1,5 +1,8 @@
 .DS_Store
 **/__pycache__/
 *.pyc
+results/
 results.zip
-Assignment_Three_Report_Yao_Yichuan.html
+Assignment_Three_Report_*
+运行与提交说明.md
+*.html
