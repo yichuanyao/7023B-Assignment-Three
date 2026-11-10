@@ -1,0 +1,19 @@
+Both images are official samples from the COCO dataset (val2017),
+a standard benchmark for object detection / instance segmentation.
+
+image1.jpg
+  COCO ID: 000000039769
+  Content: two cats + remote controls on a sofa (classic COCO demo image)
+  Classes likely detectable by SSD-MobileNet-v2: cat, remote
+  URL: http://images.cocodataset.org/val2017/000000039769.jpg
+  Dataset: https://cocodataset.org
+
+image2.jpg
+  COCO ID: 000000397133
+  Content: kitchen scene with a person and many household objects
+  Classes likely detectable: person, bowl, bottle, spoon, oven, etc.
+  URL: http://images.cocodataset.org/val2017/000000397133.jpg
+  Dataset: https://cocodataset.org
+
+License note: COCO images come from Flickr with individual licenses;
+used here for educational coursework / model evaluation.
