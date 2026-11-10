@@ -1,0 +1,8 @@
+Assignment 3-2 Detection Summary
+============================================================
+Image      Threshold    Num detected objects   Notes
+------------------------------------------------------------
+Image 1    0.3          5                      Fill in after visual check
+Image 2    0.3          4                      Fill in after visual check
+Image 1    0.7          2                      Fill in after visual check
+Image 2    0.7          2                      Fill in after visual check

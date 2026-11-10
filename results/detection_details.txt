@@ -1,0 +1,185 @@
+
+Image 1 | threshold=0.3 | file=images/image1.jpeg
+Number of detected objects: 5
+Annotated image: results/image1_image1_thr0p3.jpg
+   -- Detection #1
+   -- ClassID: 63
+   -- Class: couch
+   -- Confidence: 0.57861328125
+   -- Left:    0.0
+   -- Top:     0.0
+   -- Right:   639.0
+   -- Bottom:  479.0
+   -- Width:   639.0
+   -- Height:  479.0
+   -- Area:    306081.0
+   -- Center:  (319.5, 239.5)
+
+   -- Detection #2
+   -- ClassID: 65
+   -- Class: bed
+   -- Confidence: 0.444580078125
+   -- Left:    2.65625
+   -- Top:     6.5625
+   -- Right:   638.125
+   -- Bottom:  470.15625
+   -- Width:   635.46875
+   -- Height:  463.59375
+   -- Area:    294599.34375
+   -- Center:  (320.390625, 238.359375)
+
+   -- Detection #3
+   -- ClassID: 17
+   -- Class: cat
+   -- Confidence: 0.99072265625
+   -- Left:    11.484375
+   -- Top:     59.296875
+   -- Right:   318.125
+   -- Bottom:  471.328125
+   -- Width:   306.640625
+   -- Height:  412.03125
+   -- Area:    126345.5234375
+   -- Center:  (164.8046875, 265.3125)
+
+   -- Detection #4
+   -- ClassID: 18
+   -- Class: dog
+   -- Confidence: 0.55078125
+   -- Left:    342.5
+   -- Top:     26.71875
+   -- Right:   609.375
+   -- Bottom:  371.25
+   -- Width:   266.875
+   -- Height:  344.53125
+   -- Area:    91946.78125
+   -- Center:  (475.9375, 198.984375)
+
+   -- Detection #5
+   -- ClassID: 17
+   -- Class: cat
+   -- Confidence: 0.82421875
+   -- Left:    333.125
+   -- Top:     32.9296875
+   -- Right:   605.625
+   -- Bottom:  367.96875
+   -- Width:   272.5
+   -- Height:  335.0390625
+   -- Area:    91298.140625
+   -- Center:  (469.375, 200.44921875)
+
+
+Image 2 | threshold=0.3 | file=images/image2.jpeg
+Number of detected objects: 4
+Annotated image: results/image2_image2_thr0p3.jpg
+   -- Detection #1
+   -- ClassID: 67
+   -- Class: dining table
+   -- Confidence: 0.7568359375
+   -- Left:    5.3125
+   -- Top:     235.39208984375
+   -- Right:   328.125
+   -- Bottom:  418.86865234375
+   -- Width:   322.8125
+   -- Height:  183.4765625
+   -- Area:    59228.52734375
+   -- Center:  (166.71875, 327.13037109375)
+
+   -- Detection #2
+   -- ClassID: 1
+   -- Class: person
+   -- Confidence: 0.9521484375
+   -- Left:    377.8125
+   -- Top:     66.51025390625
+   -- Right:   505.9375
+   -- Bottom:  349.64794921875
+   -- Width:   128.125
+   -- Height:  283.1376953125
+   -- Area:    36277.015625
+   -- Center:  (441.875, 208.0791015625)
+
+   -- Detection #3
+   -- ClassID: 62
+   -- Class: chair
+   -- Confidence: 0.338134765625
+   -- Left:    534.6875
+   -- Top:     244.14892578125
+   -- Right:   619.0625
+   -- Bottom:  341.30810546875
+   -- Width:   84.375
+   -- Height:  97.1591796875
+   -- Area:    8197.8056640625
+   -- Center:  (576.875, 292.728515625)
+
+   -- Detection #4
+   -- ClassID: 51
+   -- Class: bowl
+   -- Confidence: 0.427734375
+   -- Left:    230.0
+   -- Top:     267.50048828125
+   -- Right:   270.0
+   -- Bottom:  295.43896484375
+   -- Width:   40.0
+   -- Height:  27.9384765625
+   -- Area:    1117.5390625
+   -- Center:  (250.0, 281.4697265625)
+
+
+Image 1 | threshold=0.7 | file=images/image1.jpeg
+Number of detected objects: 2
+Annotated image: results/image1_image1_thr0p7.jpg
+   -- Detection #1
+   -- ClassID: 17
+   -- Class: cat
+   -- Confidence: 0.99072265625
+   -- Left:    11.484375
+   -- Top:     59.296875
+   -- Right:   318.125
+   -- Bottom:  471.328125
+   -- Width:   306.640625
+   -- Height:  412.03125
+   -- Area:    126345.5234375
+   -- Center:  (164.8046875, 265.3125)
+
+   -- Detection #2
+   -- ClassID: 17
+   -- Class: cat
+   -- Confidence: 0.82421875
+   -- Left:    333.125
+   -- Top:     32.9296875
+   -- Right:   605.625
+   -- Bottom:  367.96875
+   -- Width:   272.5
+   -- Height:  335.0390625
+   -- Area:    91298.140625
+   -- Center:  (469.375, 200.44921875)
+
+
+Image 2 | threshold=0.7 | file=images/image2.jpeg
+Number of detected objects: 2
+Annotated image: results/image2_image2_thr0p7.jpg
+   -- Detection #1
+   -- ClassID: 67
+   -- Class: dining table
+   -- Confidence: 0.7568359375
+   -- Left:    5.3125
+   -- Top:     235.39208984375
+   -- Right:   328.125
+   -- Bottom:  418.86865234375
+   -- Width:   322.8125
+   -- Height:  183.4765625
+   -- Area:    59228.52734375
+   -- Center:  (166.71875, 327.13037109375)
+
+   -- Detection #2
+   -- ClassID: 1
+   -- Class: person
+   -- Confidence: 0.9521484375
+   -- Left:    377.8125
+   -- Top:     66.51025390625
+   -- Right:   505.9375
+   -- Bottom:  349.64794921875
+   -- Width:   128.125
+   -- Height:  283.1376953125
+   -- Area:    36277.015625
+   -- Center:  (441.875, 208.0791015625)
+

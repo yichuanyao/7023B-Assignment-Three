@@ -43,14 +43,21 @@ python3 assin3_detection.py --image1 images/image1.jpeg --image2 images/image2.j
 
 ## 2. Detected Images
 
-Insert the 4 annotated images from Jetson `results/`:
+### Image 1 @ threshold 0.3 (5 detections)
 
-- `image1_image1_thr0p3.jpg` — Image 1 @ 0.3  
-- `image1_image1_thr0p7.jpg` — Image 1 @ 0.7  
-- `image2_image2_thr0p3.jpg` — Image 2 @ 0.3  
-- `image2_image2_thr0p7.jpg` — Image 2 @ 0.7  
+![Image 1 threshold 0.3](results/image1_image1_thr0p3.jpg)
 
-*(Copy these 4 files from Jetson into this report / PDF.)*
+### Image 1 @ threshold 0.7 (2 detections)
+
+![Image 1 threshold 0.7](results/image1_image1_thr0p7.jpg)
+
+### Image 2 @ threshold 0.3 (4 detections)
+
+![Image 2 threshold 0.3](results/image2_image2_thr0p3.jpg)
+
+### Image 2 @ threshold 0.7 (2 detections)
+
+![Image 2 threshold 0.7](results/image2_image2_thr0p7.jpg)
 
 ---
 
