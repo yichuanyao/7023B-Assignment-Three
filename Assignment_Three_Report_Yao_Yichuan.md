@@ -11,8 +11,6 @@
 
 ## GitHub Repository
 
-> Replace with your real repo URL after uploading the code.
-
 https://github.com/yichuanyao/7023B-Assignment-Three
 
 ---
